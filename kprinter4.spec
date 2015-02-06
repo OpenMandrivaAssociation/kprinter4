@@ -1,7 +1,7 @@
 Summary:	Print PostScript documents with KDE print dialog
 Name:		kprinter4
 Version:	10
-Release:	1
+Release:	2
 License:	GPLv3+
 Group:		Graphical desktop/KDE
 Url:		https://github.com/credativ/kprinter4
