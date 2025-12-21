@@ -6,6 +6,7 @@ License:	GPLv3+
 Group:		Graphical desktop/KDE
 Url:		https://github.com/credativ/kprinter4
 Source0:	https://github.com/credativ/kprinter4/archive/%{name}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	kdelibs4-devel
 BuildRequires:	pkgconfig(libspectre)
 Requires:	ghostscript
